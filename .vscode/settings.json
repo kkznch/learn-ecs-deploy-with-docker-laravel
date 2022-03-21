@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/kkznch/ghq/github.com/kkznch/learn-ecs-deploy-with-docker-laravel/.github/workflows/deploy.yml"
+  }
+}
